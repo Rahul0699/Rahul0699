@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...AI,DATA SCIENCE,ML,ETC.
 - 🌱 I’m currently learning ...PYTHON,EXCEL,MYSQL.
 - 💞️ I’m looking to collaborate on ...MNC COMPANYS.
-- 📫 How to reach me ... FROM  YOUTUDE.
+- 📫 How to reach me ... FROM  ray795118@gmail.com.
 
 <!---
 Rahul0699/Rahul0699 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
